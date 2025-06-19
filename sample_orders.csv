@@ -1,0 +1,3 @@
+user_id,order_id,date,amount,is_combo,coupon_used
+1,101,2024-06-01,150,Yes,Yes
+2,102,2024-06-01,200,No,No
